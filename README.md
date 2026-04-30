@@ -1,0 +1,2 @@
+# dottyapp.com-privacy
+privacy
